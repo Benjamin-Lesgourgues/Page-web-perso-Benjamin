@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: rgb(202, 226, 233);
+}
+
+h1 { 
+    color: rgba(255, 255, 255, 0.986);
+    font-family:Lucida;
+    background-color: rgba(67, 135, 167, 0.884);
+    font-size: 50px; 
+    text-align: center;
+    font-variant: small-caps;
+}
+
+header{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    font-style: italic;
+}
+h2{
+    text-align: center;
+}
+}
+footer {
+    background-color:rgba(134, 134, 134, 0.884);
+}
