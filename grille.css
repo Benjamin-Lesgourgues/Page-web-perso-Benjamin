@@ -38,6 +38,6 @@
     grid-row: 4 / 4;
 }
 
-#titre{
-    text-align: center;
+#titre{ 
+    grid-column: 2 / 2;
 }
