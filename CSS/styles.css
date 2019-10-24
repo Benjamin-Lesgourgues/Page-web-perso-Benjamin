@@ -1,6 +1,5 @@
 body{
-    text-align: center;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(104, 104, 104);
 }
 
 h1 { 
@@ -8,11 +7,20 @@ h1 {
     font-family:Lucida;
     background-color: rgba(255, 255, 255, 0.884);
     font-size: 50px; 
-    text-align: center;
+    text-align:center;
     font-variant: small-caps;
 }
 
-    
+header{
+    text-align: center;
+    font-size: 40px;
+}
+
+.titre{
+    text-align: center;
+    font-style: italic;
+}
+
 span.pres {
     font-size: 30px;
     font-style: italic;
@@ -25,4 +33,28 @@ h2{
 
 footer {
     background-color:rgba(134, 134, 134, 0.884);
+}
+
+div.col1{
+    background-color: rgb(77, 77, 77);
+}
+
+div.col2{
+    background-color: rgb(150, 150, 150);
+}
+
+div.col3{
+    background-color: rgb(202, 202, 202);
+}
+
+div.ligne1{
+    border: 2px solid rgb(0, 0, 0);
+}
+
+div.ligne2{
+    border: 2px solid rgb(0, 0, 0);
+}
+
+div.ligne3{
+    border: 2px solid rgb(0, 0, 0);
 }
