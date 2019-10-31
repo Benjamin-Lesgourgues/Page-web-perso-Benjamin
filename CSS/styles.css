@@ -26,20 +26,6 @@ header{
     background: rgba(255, 255, 255, 0);
 }
 
-
-
-footer {
-    background-color:rgba(0, 0, 0, 0.884);
-    color: white;
-    text-align: right;
-    font-family: 'Josefin Sans', sans-serif;
-}
-
-.logolinkedin{
-    height: 50px;
-    width:50px;
-}
-
 /* Bannière titre */
 
 div.col0{
@@ -75,4 +61,24 @@ div.ligne2{
 
 div.ligne3{
     border: 0px solid rgb(0, 0, 0);
+}
+
+/* Pied de page */
+
+footer {
+    background-color:rgba(0, 0, 0, 0.884);
+    color: white;
+    text-align: right;
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: italic;
+}
+
+.logolinkedin{
+    height: 50px;
+    width:50px;
+}
+
+.logofacebook{
+    height: 50px;
+    width: 50px;
 }
