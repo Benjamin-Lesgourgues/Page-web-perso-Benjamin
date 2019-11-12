@@ -39,6 +39,13 @@ div.ligne0{
 
 /* Grille de la page */
 
+#slogan{
+    height: 200px; /* hauteur du parent */
+    line-height: 200px; /* hauteur de ligne (identique) */
+}
+
+
+
 div.col1{
     background-color: rgb(77, 77, 77);
 }
@@ -74,11 +81,11 @@ footer {
 }
 
 .logolinkedin{
-    height: 50px;
-    width:50px;
+    height: 40px;
+    width:40px;
 }
 
 .logofacebook{
-    height: 50px;
-    width: 50px;
+    height: 40px;
+    width: 40px;
 }
