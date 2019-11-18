@@ -1,5 +1,5 @@
 body{
-    background-color:  rgba(7, 17, 38);
+    background-color:  rgb(8, 32, 43);
 
 }
 
@@ -24,15 +24,17 @@ div.ligne0{
 /* Grille de la page */
 
 #slogan{
-    height: 200px; /* hauteur du parent */
-    line-height: 200px; /* hauteur de ligne (identique) */
+    height: 200px; 
+    line-height: 200px; 
 }
 
-
+p{
+    text-indent: 15px;
+}
 
 div.box1{
     background-color: rgb(224, 218, 162);
-    color: rgb(41, 0, 0);
+    color: rgb(66, 7, 17);
 }
 
 div.box2{
@@ -58,7 +60,7 @@ div.box3{
 /* Pied de page */
 
 footer {
-    background-color:rgba(7, 17, 38);
+    background-color: rgb(8, 32, 43);;
     color: white;
     text-align: right;
     font-family: 'Josefin Sans', sans-serif;
