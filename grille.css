@@ -71,6 +71,15 @@
     grid-row: 10 / 10;
 }
 
+#tuile11{
+  height: 70px;
+}
+
+.imgfooter{
+  width: auto;
+  height: 70px;
+}
+
 .footer
 {
   grid-area: footer;
@@ -218,7 +227,12 @@
     #tuile11{
     grid-column: 1/ 4;
     grid-row: 6 / 6;
-    height: 50px;
+    height: 100px;
+    }
+
+    .imgfooter{
+      width: auto;
+      height: 100px;
     }
 
     #titre{ 
