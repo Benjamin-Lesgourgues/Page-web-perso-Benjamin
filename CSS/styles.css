@@ -65,12 +65,17 @@ footer {
     text-align: right;
     font-family: 'Josefin Sans', sans-serif;
     font-style: italic;
+    font-size: 10px;
 
 }
 
 .credits{
     padding: 5px;
     color: white;
+}
+
+.creditlist{
+    padding:5px;
 }
 
 a {
