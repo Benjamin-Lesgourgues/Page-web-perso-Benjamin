@@ -68,6 +68,16 @@ footer {
 
 }
 
+.credits{
+    padding: 5px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    }
+
 .logolinkedin{
     height: 40px;
     width:40px;
